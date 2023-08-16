@@ -16,7 +16,7 @@ export default function Nav() {
 
   return (
     <>
-      <Box bg={useColorModeValue('mint', 'raisin')} px={4}>
+      <Box bg={useColorModeValue('white', 'raisin')} px={4}>
         <Flex h={'4rem'} alignItems={'center'} justifyContent={'space-between'}>
           <Box>Logo</Box>
 
