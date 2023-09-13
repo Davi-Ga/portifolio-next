@@ -19,7 +19,7 @@ export default function Home() {
 
         </HStack>
 
-        <Text align={'center'} fontWeight={'semibold'} >Site em construção</Text>
+        <Text align={'center'} fontWeight={'semibold'} >Atualmente o site está em construção. Por favor volte depois.</Text>
 
      
      
